@@ -1,0 +1,373 @@
+Command: /home/users14/jlm7771/Documents/ece526LabSpring21/Lab7/./simv -l lab7.log
+Chronologic VCS simulator copyright 1991-2017
+Contains Synopsys proprietary information.
+Compiler version N-2017.12-SP2-2_Full64; Runtime version N-2017.12-SP2-2_Full64;  Apr  9 21:05 2021
+VCD+ Writer N-2017.12-SP2-2_Full64 Copyright (c) 1991-2017 by Synopsys Inc.
+Loading ROM contents.
+Ram test start. 
+		Writing to RAM.
+RAM ||                   60, ADDR = 00, OE = 0, WS = 1, CS = 0 | DATA = 00
+RAM ||                   80, ADDR = 00, OE = 0, WS = 0, CS = 0 | DATA = 00
+RAM ||                  120, ADDR = 01, OE = 0, WS = 1, CS = 0 | DATA = 01
+RAM ||                  140, ADDR = 01, OE = 0, WS = 0, CS = 0 | DATA = 01
+RAM ||                  180, ADDR = 02, OE = 0, WS = 1, CS = 0 | DATA = 02
+RAM ||                  200, ADDR = 02, OE = 0, WS = 0, CS = 0 | DATA = 02
+RAM ||                  240, ADDR = 03, OE = 0, WS = 1, CS = 0 | DATA = 03
+RAM ||                  260, ADDR = 03, OE = 0, WS = 0, CS = 0 | DATA = 03
+RAM ||                  300, ADDR = 04, OE = 0, WS = 1, CS = 0 | DATA = 04
+RAM ||                  320, ADDR = 04, OE = 0, WS = 0, CS = 0 | DATA = 04
+RAM ||                  360, ADDR = 05, OE = 0, WS = 1, CS = 0 | DATA = 05
+RAM ||                  380, ADDR = 05, OE = 0, WS = 0, CS = 0 | DATA = 05
+RAM ||                  420, ADDR = 06, OE = 0, WS = 1, CS = 0 | DATA = 06
+RAM ||                  440, ADDR = 06, OE = 0, WS = 0, CS = 0 | DATA = 06
+RAM ||                  480, ADDR = 07, OE = 0, WS = 1, CS = 0 | DATA = 07
+RAM ||                  500, ADDR = 07, OE = 0, WS = 0, CS = 0 | DATA = 07
+RAM ||                  540, ADDR = 08, OE = 0, WS = 1, CS = 0 | DATA = 08
+RAM ||                  560, ADDR = 08, OE = 0, WS = 0, CS = 0 | DATA = 08
+RAM ||                  600, ADDR = 09, OE = 0, WS = 1, CS = 0 | DATA = 09
+RAM ||                  620, ADDR = 09, OE = 0, WS = 0, CS = 0 | DATA = 09
+RAM ||                  660, ADDR = 0a, OE = 0, WS = 1, CS = 0 | DATA = 0a
+RAM ||                  680, ADDR = 0a, OE = 0, WS = 0, CS = 0 | DATA = 0a
+RAM ||                  720, ADDR = 0b, OE = 0, WS = 1, CS = 0 | DATA = 0b
+RAM ||                  740, ADDR = 0b, OE = 0, WS = 0, CS = 0 | DATA = 0b
+RAM ||                  780, ADDR = 0c, OE = 0, WS = 1, CS = 0 | DATA = 0c
+RAM ||                  800, ADDR = 0c, OE = 0, WS = 0, CS = 0 | DATA = 0c
+RAM ||                  840, ADDR = 0d, OE = 0, WS = 1, CS = 0 | DATA = 0d
+RAM ||                  860, ADDR = 0d, OE = 0, WS = 0, CS = 0 | DATA = 0d
+RAM ||                  900, ADDR = 0e, OE = 0, WS = 1, CS = 0 | DATA = 0e
+RAM ||                  920, ADDR = 0e, OE = 0, WS = 0, CS = 0 | DATA = 0e
+RAM ||                  960, ADDR = 0f, OE = 0, WS = 1, CS = 0 | DATA = 0f
+RAM ||                  980, ADDR = 0f, OE = 0, WS = 0, CS = 0 | DATA = 0f
+RAM ||                 1020, ADDR = 10, OE = 0, WS = 1, CS = 0 | DATA = 10
+RAM ||                 1040, ADDR = 10, OE = 0, WS = 0, CS = 0 | DATA = 10
+RAM ||                 1080, ADDR = 11, OE = 0, WS = 1, CS = 0 | DATA = 11
+RAM ||                 1100, ADDR = 11, OE = 0, WS = 0, CS = 0 | DATA = 11
+RAM ||                 1140, ADDR = 12, OE = 0, WS = 1, CS = 0 | DATA = 12
+RAM ||                 1160, ADDR = 12, OE = 0, WS = 0, CS = 0 | DATA = 12
+RAM ||                 1200, ADDR = 13, OE = 0, WS = 1, CS = 0 | DATA = 13
+RAM ||                 1220, ADDR = 13, OE = 0, WS = 0, CS = 0 | DATA = 13
+RAM ||                 1260, ADDR = 14, OE = 0, WS = 1, CS = 0 | DATA = 14
+RAM ||                 1280, ADDR = 14, OE = 0, WS = 0, CS = 0 | DATA = 14
+RAM ||                 1320, ADDR = 15, OE = 0, WS = 1, CS = 0 | DATA = 15
+RAM ||                 1340, ADDR = 15, OE = 0, WS = 0, CS = 0 | DATA = 15
+RAM ||                 1380, ADDR = 16, OE = 0, WS = 1, CS = 0 | DATA = 16
+RAM ||                 1400, ADDR = 16, OE = 0, WS = 0, CS = 0 | DATA = 16
+RAM ||                 1440, ADDR = 17, OE = 0, WS = 1, CS = 0 | DATA = 17
+RAM ||                 1460, ADDR = 17, OE = 0, WS = 0, CS = 0 | DATA = 17
+RAM ||                 1500, ADDR = 18, OE = 0, WS = 1, CS = 0 | DATA = 18
+RAM ||                 1520, ADDR = 18, OE = 0, WS = 0, CS = 0 | DATA = 18
+RAM ||                 1560, ADDR = 19, OE = 0, WS = 1, CS = 0 | DATA = 19
+RAM ||                 1580, ADDR = 19, OE = 0, WS = 0, CS = 0 | DATA = 19
+RAM ||                 1620, ADDR = 1a, OE = 0, WS = 1, CS = 0 | DATA = 1a
+RAM ||                 1640, ADDR = 1a, OE = 0, WS = 0, CS = 0 | DATA = 1a
+RAM ||                 1680, ADDR = 1b, OE = 0, WS = 1, CS = 0 | DATA = 1b
+RAM ||                 1700, ADDR = 1b, OE = 0, WS = 0, CS = 0 | DATA = 1b
+RAM ||                 1740, ADDR = 1c, OE = 0, WS = 1, CS = 0 | DATA = 1c
+RAM ||                 1760, ADDR = 1c, OE = 0, WS = 0, CS = 0 | DATA = 1c
+RAM ||                 1800, ADDR = 1d, OE = 0, WS = 1, CS = 0 | DATA = 1d
+RAM ||                 1820, ADDR = 1d, OE = 0, WS = 0, CS = 0 | DATA = 1d
+RAM ||                 1860, ADDR = 1e, OE = 0, WS = 1, CS = 0 | DATA = 1e
+RAM ||                 1880, ADDR = 1e, OE = 0, WS = 0, CS = 0 | DATA = 1e
+RAM ||                 1920, ADDR = 1f, OE = 0, WS = 1, CS = 0 | DATA = 1f
+RAM ||                 1940, ADDR = 1f, OE = 0, WS = 0, CS = 0 | DATA = 1f
+		Finished writing to RAM.
+
+
+		Reading from RAM.
+RAM ||                 2000, ADDR = 00, OE = 1, WS = 0, CS = 0 | DATA = 00
+RAM ||                 2040, ADDR = 01, OE = 1, WS = 0, CS = 0 | DATA = 01
+RAM ||                 2080, ADDR = 02, OE = 1, WS = 0, CS = 0 | DATA = 02
+RAM ||                 2120, ADDR = 03, OE = 1, WS = 0, CS = 0 | DATA = 03
+RAM ||                 2160, ADDR = 04, OE = 1, WS = 0, CS = 0 | DATA = 04
+RAM ||                 2200, ADDR = 05, OE = 1, WS = 0, CS = 0 | DATA = 05
+RAM ||                 2240, ADDR = 06, OE = 1, WS = 0, CS = 0 | DATA = 06
+RAM ||                 2280, ADDR = 07, OE = 1, WS = 0, CS = 0 | DATA = 07
+RAM ||                 2320, ADDR = 08, OE = 1, WS = 0, CS = 0 | DATA = 08
+RAM ||                 2360, ADDR = 09, OE = 1, WS = 0, CS = 0 | DATA = 09
+RAM ||                 2400, ADDR = 0a, OE = 1, WS = 0, CS = 0 | DATA = 0a
+RAM ||                 2440, ADDR = 0b, OE = 1, WS = 0, CS = 0 | DATA = 0b
+RAM ||                 2480, ADDR = 0c, OE = 1, WS = 0, CS = 0 | DATA = 0c
+RAM ||                 2520, ADDR = 0d, OE = 1, WS = 0, CS = 0 | DATA = 0d
+RAM ||                 2560, ADDR = 0e, OE = 1, WS = 0, CS = 0 | DATA = 0e
+RAM ||                 2600, ADDR = 0f, OE = 1, WS = 0, CS = 0 | DATA = 0f
+RAM ||                 2640, ADDR = 10, OE = 1, WS = 0, CS = 0 | DATA = 10
+RAM ||                 2680, ADDR = 11, OE = 1, WS = 0, CS = 0 | DATA = 11
+RAM ||                 2720, ADDR = 12, OE = 1, WS = 0, CS = 0 | DATA = 12
+RAM ||                 2760, ADDR = 13, OE = 1, WS = 0, CS = 0 | DATA = 13
+RAM ||                 2800, ADDR = 14, OE = 1, WS = 0, CS = 0 | DATA = 14
+RAM ||                 2840, ADDR = 15, OE = 1, WS = 0, CS = 0 | DATA = 15
+RAM ||                 2880, ADDR = 16, OE = 1, WS = 0, CS = 0 | DATA = 16
+RAM ||                 2920, ADDR = 17, OE = 1, WS = 0, CS = 0 | DATA = 17
+RAM ||                 2960, ADDR = 18, OE = 1, WS = 0, CS = 0 | DATA = 18
+RAM ||                 3000, ADDR = 19, OE = 1, WS = 0, CS = 0 | DATA = 19
+RAM ||                 3040, ADDR = 1a, OE = 1, WS = 0, CS = 0 | DATA = 1a
+RAM ||                 3080, ADDR = 1b, OE = 1, WS = 0, CS = 0 | DATA = 1b
+RAM ||                 3120, ADDR = 1c, OE = 1, WS = 0, CS = 0 | DATA = 1c
+RAM ||                 3160, ADDR = 1d, OE = 1, WS = 0, CS = 0 | DATA = 1d
+RAM ||                 3200, ADDR = 1e, OE = 1, WS = 0, CS = 0 | DATA = 1e
+RAM ||                 3240, ADDR = 1f, OE = 1, WS = 0, CS = 0 | DATA = 1f
+		Finished reading from RAM.
+
+
+		Writing walking ones pattern to RAM.
+RAM ||                 3300, ADDR = 00, OE = 0, WS = 1, CS = 0 | DATA = 00000001
+RAM ||                 3320, ADDR = 00, OE = 0, WS = 0, CS = 0 | DATA = 00000001
+RAM ||                 3360, ADDR = 01, OE = 0, WS = 1, CS = 0 | DATA = 00000010
+RAM ||                 3380, ADDR = 01, OE = 0, WS = 0, CS = 0 | DATA = 00000010
+RAM ||                 3420, ADDR = 02, OE = 0, WS = 1, CS = 0 | DATA = 00000100
+RAM ||                 3440, ADDR = 02, OE = 0, WS = 0, CS = 0 | DATA = 00000100
+RAM ||                 3480, ADDR = 03, OE = 0, WS = 1, CS = 0 | DATA = 00001000
+RAM ||                 3500, ADDR = 03, OE = 0, WS = 0, CS = 0 | DATA = 00001000
+RAM ||                 3540, ADDR = 04, OE = 0, WS = 1, CS = 0 | DATA = 00010000
+RAM ||                 3560, ADDR = 04, OE = 0, WS = 0, CS = 0 | DATA = 00010000
+RAM ||                 3600, ADDR = 05, OE = 0, WS = 1, CS = 0 | DATA = 00100000
+RAM ||                 3620, ADDR = 05, OE = 0, WS = 0, CS = 0 | DATA = 00100000
+RAM ||                 3660, ADDR = 06, OE = 0, WS = 1, CS = 0 | DATA = 01000000
+RAM ||                 3680, ADDR = 06, OE = 0, WS = 0, CS = 0 | DATA = 01000000
+RAM ||                 3720, ADDR = 07, OE = 0, WS = 1, CS = 0 | DATA = 10000000
+RAM ||                 3740, ADDR = 07, OE = 0, WS = 0, CS = 0 | DATA = 10000000
+RAM ||                 3780, ADDR = 08, OE = 0, WS = 1, CS = 0 | DATA = 00000001
+RAM ||                 3800, ADDR = 08, OE = 0, WS = 0, CS = 0 | DATA = 00000001
+RAM ||                 3840, ADDR = 09, OE = 0, WS = 1, CS = 0 | DATA = 00000010
+RAM ||                 3860, ADDR = 09, OE = 0, WS = 0, CS = 0 | DATA = 00000010
+RAM ||                 3900, ADDR = 0a, OE = 0, WS = 1, CS = 0 | DATA = 00000100
+RAM ||                 3920, ADDR = 0a, OE = 0, WS = 0, CS = 0 | DATA = 00000100
+RAM ||                 3960, ADDR = 0b, OE = 0, WS = 1, CS = 0 | DATA = 00001000
+RAM ||                 3980, ADDR = 0b, OE = 0, WS = 0, CS = 0 | DATA = 00001000
+RAM ||                 4020, ADDR = 0c, OE = 0, WS = 1, CS = 0 | DATA = 00010000
+RAM ||                 4040, ADDR = 0c, OE = 0, WS = 0, CS = 0 | DATA = 00010000
+RAM ||                 4080, ADDR = 0d, OE = 0, WS = 1, CS = 0 | DATA = 00100000
+RAM ||                 4100, ADDR = 0d, OE = 0, WS = 0, CS = 0 | DATA = 00100000
+RAM ||                 4140, ADDR = 0e, OE = 0, WS = 1, CS = 0 | DATA = 01000000
+RAM ||                 4160, ADDR = 0e, OE = 0, WS = 0, CS = 0 | DATA = 01000000
+RAM ||                 4200, ADDR = 0f, OE = 0, WS = 1, CS = 0 | DATA = 10000000
+RAM ||                 4220, ADDR = 0f, OE = 0, WS = 0, CS = 0 | DATA = 10000000
+RAM ||                 4260, ADDR = 10, OE = 0, WS = 1, CS = 0 | DATA = 00000001
+RAM ||                 4280, ADDR = 10, OE = 0, WS = 0, CS = 0 | DATA = 00000001
+RAM ||                 4320, ADDR = 11, OE = 0, WS = 1, CS = 0 | DATA = 00000010
+RAM ||                 4340, ADDR = 11, OE = 0, WS = 0, CS = 0 | DATA = 00000010
+RAM ||                 4380, ADDR = 12, OE = 0, WS = 1, CS = 0 | DATA = 00000100
+RAM ||                 4400, ADDR = 12, OE = 0, WS = 0, CS = 0 | DATA = 00000100
+RAM ||                 4440, ADDR = 13, OE = 0, WS = 1, CS = 0 | DATA = 00001000
+RAM ||                 4460, ADDR = 13, OE = 0, WS = 0, CS = 0 | DATA = 00001000
+RAM ||                 4500, ADDR = 14, OE = 0, WS = 1, CS = 0 | DATA = 00010000
+RAM ||                 4520, ADDR = 14, OE = 0, WS = 0, CS = 0 | DATA = 00010000
+RAM ||                 4560, ADDR = 15, OE = 0, WS = 1, CS = 0 | DATA = 00100000
+RAM ||                 4580, ADDR = 15, OE = 0, WS = 0, CS = 0 | DATA = 00100000
+RAM ||                 4620, ADDR = 16, OE = 0, WS = 1, CS = 0 | DATA = 01000000
+RAM ||                 4640, ADDR = 16, OE = 0, WS = 0, CS = 0 | DATA = 01000000
+RAM ||                 4680, ADDR = 17, OE = 0, WS = 1, CS = 0 | DATA = 10000000
+RAM ||                 4700, ADDR = 17, OE = 0, WS = 0, CS = 0 | DATA = 10000000
+RAM ||                 4740, ADDR = 18, OE = 0, WS = 1, CS = 0 | DATA = 00000001
+RAM ||                 4760, ADDR = 18, OE = 0, WS = 0, CS = 0 | DATA = 00000001
+RAM ||                 4800, ADDR = 19, OE = 0, WS = 1, CS = 0 | DATA = 00000010
+RAM ||                 4820, ADDR = 19, OE = 0, WS = 0, CS = 0 | DATA = 00000010
+RAM ||                 4860, ADDR = 1a, OE = 0, WS = 1, CS = 0 | DATA = 00000100
+RAM ||                 4880, ADDR = 1a, OE = 0, WS = 0, CS = 0 | DATA = 00000100
+RAM ||                 4920, ADDR = 1b, OE = 0, WS = 1, CS = 0 | DATA = 00001000
+RAM ||                 4940, ADDR = 1b, OE = 0, WS = 0, CS = 0 | DATA = 00001000
+RAM ||                 4980, ADDR = 1c, OE = 0, WS = 1, CS = 0 | DATA = 00010000
+RAM ||                 5000, ADDR = 1c, OE = 0, WS = 0, CS = 0 | DATA = 00010000
+RAM ||                 5040, ADDR = 1d, OE = 0, WS = 1, CS = 0 | DATA = 00100000
+RAM ||                 5060, ADDR = 1d, OE = 0, WS = 0, CS = 0 | DATA = 00100000
+RAM ||                 5100, ADDR = 1e, OE = 0, WS = 1, CS = 0 | DATA = 01000000
+RAM ||                 5120, ADDR = 1e, OE = 0, WS = 0, CS = 0 | DATA = 01000000
+RAM ||                 5160, ADDR = 1f, OE = 0, WS = 1, CS = 0 | DATA = 10000000
+RAM ||                 5180, ADDR = 1f, OE = 0, WS = 0, CS = 0 | DATA = 10000000
+		Finished writing walking ones to RAM.
+
+
+		Reading walking ones from RAM.
+RAM ||                 5240, ADDR = 00, OE = 1, WS = 0, CS = 0 | DATA = 00000001
+RAM ||                 5280, ADDR = 01, OE = 1, WS = 0, CS = 0 | DATA = 00000010
+RAM ||                 5320, ADDR = 02, OE = 1, WS = 0, CS = 0 | DATA = 00000100
+RAM ||                 5360, ADDR = 03, OE = 1, WS = 0, CS = 0 | DATA = 00001000
+RAM ||                 5400, ADDR = 04, OE = 1, WS = 0, CS = 0 | DATA = 00010000
+RAM ||                 5440, ADDR = 05, OE = 1, WS = 0, CS = 0 | DATA = 00100000
+RAM ||                 5480, ADDR = 06, OE = 1, WS = 0, CS = 0 | DATA = 01000000
+RAM ||                 5520, ADDR = 07, OE = 1, WS = 0, CS = 0 | DATA = 10000000
+RAM ||                 5560, ADDR = 08, OE = 1, WS = 0, CS = 0 | DATA = 00000001
+RAM ||                 5600, ADDR = 09, OE = 1, WS = 0, CS = 0 | DATA = 00000010
+RAM ||                 5640, ADDR = 0a, OE = 1, WS = 0, CS = 0 | DATA = 00000100
+RAM ||                 5680, ADDR = 0b, OE = 1, WS = 0, CS = 0 | DATA = 00001000
+RAM ||                 5720, ADDR = 0c, OE = 1, WS = 0, CS = 0 | DATA = 00010000
+RAM ||                 5760, ADDR = 0d, OE = 1, WS = 0, CS = 0 | DATA = 00100000
+RAM ||                 5800, ADDR = 0e, OE = 1, WS = 0, CS = 0 | DATA = 01000000
+RAM ||                 5840, ADDR = 0f, OE = 1, WS = 0, CS = 0 | DATA = 10000000
+RAM ||                 5880, ADDR = 10, OE = 1, WS = 0, CS = 0 | DATA = 00000001
+RAM ||                 5920, ADDR = 11, OE = 1, WS = 0, CS = 0 | DATA = 00000010
+RAM ||                 5960, ADDR = 12, OE = 1, WS = 0, CS = 0 | DATA = 00000100
+RAM ||                 6000, ADDR = 13, OE = 1, WS = 0, CS = 0 | DATA = 00001000
+RAM ||                 6040, ADDR = 14, OE = 1, WS = 0, CS = 0 | DATA = 00010000
+RAM ||                 6080, ADDR = 15, OE = 1, WS = 0, CS = 0 | DATA = 00100000
+RAM ||                 6120, ADDR = 16, OE = 1, WS = 0, CS = 0 | DATA = 01000000
+RAM ||                 6160, ADDR = 17, OE = 1, WS = 0, CS = 0 | DATA = 10000000
+RAM ||                 6200, ADDR = 18, OE = 1, WS = 0, CS = 0 | DATA = 00000001
+RAM ||                 6240, ADDR = 19, OE = 1, WS = 0, CS = 0 | DATA = 00000010
+RAM ||                 6280, ADDR = 1a, OE = 1, WS = 0, CS = 0 | DATA = 00000100
+RAM ||                 6320, ADDR = 1b, OE = 1, WS = 0, CS = 0 | DATA = 00001000
+RAM ||                 6360, ADDR = 1c, OE = 1, WS = 0, CS = 0 | DATA = 00010000
+RAM ||                 6400, ADDR = 1d, OE = 1, WS = 0, CS = 0 | DATA = 00100000
+RAM ||                 6440, ADDR = 1e, OE = 1, WS = 0, CS = 0 | DATA = 01000000
+RAM ||                 6480, ADDR = 1f, OE = 1, WS = 0, CS = 0 | DATA = 10000000
+		Finished reading walking ones from RAM.
+
+
+		Showing disabled state.
+RAM ||                 6520, ADDR = 1f, OE = 1, WS = 1, CS = 1 | DATA = zzzzzzzz
+RAM ||                 6540, ADDR = 1f, OE = 1, WS = 0, CS = 1 | DATA = zzzzzzzz
+RAM ||                 6560, ADDR = 00, OE = 0, WS = 0, CS = 1 | DATA = zzzzzzzz
+RAM ||                 6580, ADDR = 00, OE = 0, WS = 0, CS = 1 | DATA = zzzzzzzz
+		RAM test finished.
+
+
+ROM test start.
+		Reading from ROM.
+ROM ||                 7040, ADDR = 00, OE = 1, CS = 0 | DATA = xx
+ROM ||                 7080, ADDR = 01, OE = 1, CS = 0 | DATA = xx
+ROM ||                 7120, ADDR = 02, OE = 1, CS = 0 | DATA = xx
+ROM ||                 7160, ADDR = 03, OE = 1, CS = 0 | DATA = xx
+ROM ||                 7200, ADDR = 04, OE = 1, CS = 0 | DATA = 58
+ROM ||                 7240, ADDR = 05, OE = 1, CS = 0 | DATA = ed
+ROM ||                 7280, ADDR = 06, OE = 1, CS = 0 | DATA = b7
+ROM ||                 7320, ADDR = 07, OE = 1, CS = 0 | DATA = 34
+ROM ||                 7360, ADDR = 08, OE = 1, CS = 0 | DATA = c9
+ROM ||                 7400, ADDR = 09, OE = 1, CS = 0 | DATA = 8f
+ROM ||                 7440, ADDR = 0a, OE = 1, CS = 0 | DATA = a0
+ROM ||                 7480, ADDR = 0b, OE = 1, CS = 0 | DATA = 9b
+ROM ||                 7520, ADDR = 0c, OE = 1, CS = 0 | DATA = 65
+ROM ||                 7560, ADDR = 0d, OE = 1, CS = 0 | DATA = 11
+ROM ||                 7600, ADDR = 0e, OE = 1, CS = 0 | DATA = 03
+ROM ||                 7640, ADDR = 0f, OE = 1, CS = 0 | DATA = 4c
+ROM ||                 7680, ADDR = 10, OE = 1, CS = 0 | DATA = da
+ROM ||                 7720, ADDR = 11, OE = 1, CS = 0 | DATA = 7e
+ROM ||                 7760, ADDR = 12, OE = 1, CS = 0 | DATA = f2
+ROM ||                 7800, ADDR = 13, OE = 1, CS = 0 | DATA = 26
+ROM ||                 7840, ADDR = 14, OE = 1, CS = 0 | DATA = 86
+ROM ||                 7880, ADDR = 15, OE = 1, CS = 0 | DATA = 95
+ROM ||                 7920, ADDR = 16, OE = 1, CS = 0 | DATA = fd
+ROM ||                 7960, ADDR = 17, OE = 1, CS = 0 | DATA = b1
+ROM ||                 8000, ADDR = 18, OE = 1, CS = 0 | DATA = xx
+ROM ||                 8040, ADDR = 19, OE = 1, CS = 0 | DATA = xx
+ROM ||                 8080, ADDR = 1a, OE = 1, CS = 0 | DATA = xx
+ROM ||                 8120, ADDR = 1b, OE = 1, CS = 0 | DATA = xx
+ROM ||                 8160, ADDR = 1c, OE = 1, CS = 0 | DATA = 12
+ROM ||                 8200, ADDR = 1d, OE = 1, CS = 0 | DATA = af
+ROM ||                 8240, ADDR = 1e, OE = 1, CS = 0 | DATA = 33
+ROM ||                 8280, ADDR = 1f, OE = 1, CS = 0 | DATA = xx
+		Finished reading from ROM.
+
+
+		Scrambling ROM contents into RAM.
+RAM ||                 8360, ADDR = 00, OE = 0, WS = 1, CS = 0 | DATA = xx
+RAM ||                 8380, ADDR = 00, OE = 0, WS = 0, CS = 0 | DATA = xx
+RAM ||                 8440, ADDR = 01, OE = 0, WS = 1, CS = 0 | DATA = xx
+RAM ||                 8460, ADDR = 01, OE = 0, WS = 0, CS = 0 | DATA = xx
+RAM ||                 8520, ADDR = 02, OE = 0, WS = 1, CS = 0 | DATA = xx
+RAM ||                 8540, ADDR = 02, OE = 0, WS = 0, CS = 0 | DATA = xx
+RAM ||                 8600, ADDR = 03, OE = 0, WS = 1, CS = 0 | DATA = xx
+RAM ||                 8620, ADDR = 03, OE = 0, WS = 0, CS = 0 | DATA = xx
+RAM ||                 8680, ADDR = 04, OE = 0, WS = 1, CS = 0 | DATA = 13
+RAM ||                 8700, ADDR = 04, OE = 0, WS = 0, CS = 0 | DATA = 13
+RAM ||                 8760, ADDR = 05, OE = 0, WS = 1, CS = 0 | DATA = de
+RAM ||                 8780, ADDR = 05, OE = 0, WS = 0, CS = 0 | DATA = de
+RAM ||                 8840, ADDR = 06, OE = 0, WS = 1, CS = 0 | DATA = ed
+RAM ||                 8860, ADDR = 06, OE = 0, WS = 0, CS = 0 | DATA = ed
+RAM ||                 8920, ADDR = 07, OE = 0, WS = 1, CS = 0 | DATA = 0d
+RAM ||                 8940, ADDR = 07, OE = 0, WS = 0, CS = 0 | DATA = 0d
+RAM ||                 9000, ADDR = 08, OE = 0, WS = 1, CS = 0 | DATA = d2
+RAM ||                 9020, ADDR = 08, OE = 0, WS = 0, CS = 0 | DATA = d2
+RAM ||                 9080, ADDR = 09, OE = 0, WS = 1, CS = 0 | DATA = ea
+RAM ||                 9100, ADDR = 09, OE = 0, WS = 0, CS = 0 | DATA = ea
+RAM ||                 9160, ADDR = 0a, OE = 0, WS = 1, CS = 0 | DATA = 44
+RAM ||                 9180, ADDR = 0a, OE = 0, WS = 0, CS = 0 | DATA = 44
+RAM ||                 9240, ADDR = 0b, OE = 0, WS = 1, CS = 0 | DATA = e3
+RAM ||                 9260, ADDR = 0b, OE = 0, WS = 0, CS = 0 | DATA = e3
+RAM ||                 9320, ADDR = 0c, OE = 0, WS = 1, CS = 0 | DATA = 9c
+RAM ||                 9340, ADDR = 0c, OE = 0, WS = 0, CS = 0 | DATA = 9c
+RAM ||                 9400, ADDR = 0d, OE = 0, WS = 1, CS = 0 | DATA = 81
+RAM ||                 9420, ADDR = 0d, OE = 0, WS = 0, CS = 0 | DATA = 81
+RAM ||                 9480, ADDR = 0e, OE = 0, WS = 1, CS = 0 | DATA = a0
+RAM ||                 9500, ADDR = 0e, OE = 0, WS = 0, CS = 0 | DATA = a0
+RAM ||                 9560, ADDR = 0f, OE = 0, WS = 1, CS = 0 | DATA = 1a
+RAM ||                 9580, ADDR = 0f, OE = 0, WS = 0, CS = 0 | DATA = 1a
+RAM ||                 9640, ADDR = 10, OE = 0, WS = 1, CS = 0 | DATA = 73
+RAM ||                 9660, ADDR = 10, OE = 0, WS = 0, CS = 0 | DATA = 73
+RAM ||                 9720, ADDR = 11, OE = 0, WS = 1, CS = 0 | DATA = 3f
+RAM ||                 9740, ADDR = 11, OE = 0, WS = 0, CS = 0 | DATA = 3f
+RAM ||                 9800, ADDR = 12, OE = 0, WS = 1, CS = 0 | DATA = 75
+RAM ||                 9820, ADDR = 12, OE = 0, WS = 0, CS = 0 | DATA = 75
+RAM ||                 9880, ADDR = 13, OE = 0, WS = 1, CS = 0 | DATA = 2c
+RAM ||                 9900, ADDR = 13, OE = 0, WS = 0, CS = 0 | DATA = 2c
+RAM ||                 9960, ADDR = 14, OE = 0, WS = 1, CS = 0 | DATA = 68
+RAM ||                 9980, ADDR = 14, OE = 0, WS = 0, CS = 0 | DATA = 68
+RAM ||                10040, ADDR = 15, OE = 0, WS = 1, CS = 0 | DATA = c9
+RAM ||                10060, ADDR = 15, OE = 0, WS = 0, CS = 0 | DATA = c9
+RAM ||                10120, ADDR = 16, OE = 0, WS = 1, CS = 0 | DATA = df
+RAM ||                10140, ADDR = 16, OE = 0, WS = 0, CS = 0 | DATA = df
+RAM ||                10200, ADDR = 17, OE = 0, WS = 1, CS = 0 | DATA = c5
+RAM ||                10220, ADDR = 17, OE = 0, WS = 0, CS = 0 | DATA = c5
+RAM ||                10280, ADDR = 18, OE = 0, WS = 1, CS = 0 | DATA = xx
+RAM ||                10300, ADDR = 18, OE = 0, WS = 0, CS = 0 | DATA = xx
+RAM ||                10360, ADDR = 19, OE = 0, WS = 1, CS = 0 | DATA = xx
+RAM ||                10380, ADDR = 19, OE = 0, WS = 0, CS = 0 | DATA = xx
+RAM ||                10440, ADDR = 1a, OE = 0, WS = 1, CS = 0 | DATA = xx
+RAM ||                10460, ADDR = 1a, OE = 0, WS = 0, CS = 0 | DATA = xx
+RAM ||                10520, ADDR = 1b, OE = 0, WS = 1, CS = 0 | DATA = xx
+RAM ||                10540, ADDR = 1b, OE = 0, WS = 0, CS = 0 | DATA = xx
+RAM ||                10600, ADDR = 1c, OE = 0, WS = 1, CS = 0 | DATA = 21
+RAM ||                10620, ADDR = 1c, OE = 0, WS = 0, CS = 0 | DATA = 21
+RAM ||                10680, ADDR = 1d, OE = 0, WS = 1, CS = 0 | DATA = ee
+RAM ||                10700, ADDR = 1d, OE = 0, WS = 0, CS = 0 | DATA = ee
+RAM ||                10760, ADDR = 1e, OE = 0, WS = 1, CS = 0 | DATA = a5
+RAM ||                10780, ADDR = 1e, OE = 0, WS = 0, CS = 0 | DATA = a5
+RAM ||                10840, ADDR = 1f, OE = 0, WS = 1, CS = 0 | DATA = xx
+RAM ||                10860, ADDR = 1f, OE = 0, WS = 0, CS = 0 | DATA = xx
+		Finished scrambling contents from ROM to RAM.
+
+
+		Reading scrambled contents from RAM.
+RAM ||                10920, ADDR = 00, OE = 1, WS = 0, CS = 0 | DATA = xx
+RAM ||                10960, ADDR = 01, OE = 1, WS = 0, CS = 0 | DATA = xx
+RAM ||                11000, ADDR = 02, OE = 1, WS = 0, CS = 0 | DATA = xx
+RAM ||                11040, ADDR = 03, OE = 1, WS = 0, CS = 0 | DATA = xx
+RAM ||                11080, ADDR = 04, OE = 1, WS = 0, CS = 0 | DATA = 13
+RAM ||                11120, ADDR = 05, OE = 1, WS = 0, CS = 0 | DATA = de
+RAM ||                11160, ADDR = 06, OE = 1, WS = 0, CS = 0 | DATA = ed
+RAM ||                11200, ADDR = 07, OE = 1, WS = 0, CS = 0 | DATA = 0d
+RAM ||                11240, ADDR = 08, OE = 1, WS = 0, CS = 0 | DATA = d2
+RAM ||                11280, ADDR = 09, OE = 1, WS = 0, CS = 0 | DATA = ea
+RAM ||                11320, ADDR = 0a, OE = 1, WS = 0, CS = 0 | DATA = 44
+RAM ||                11360, ADDR = 0b, OE = 1, WS = 0, CS = 0 | DATA = e3
+RAM ||                11400, ADDR = 0c, OE = 1, WS = 0, CS = 0 | DATA = 9c
+RAM ||                11440, ADDR = 0d, OE = 1, WS = 0, CS = 0 | DATA = 81
+RAM ||                11480, ADDR = 0e, OE = 1, WS = 0, CS = 0 | DATA = a0
+RAM ||                11520, ADDR = 0f, OE = 1, WS = 0, CS = 0 | DATA = 1a
+RAM ||                11560, ADDR = 10, OE = 1, WS = 0, CS = 0 | DATA = 73
+RAM ||                11600, ADDR = 11, OE = 1, WS = 0, CS = 0 | DATA = 3f
+RAM ||                11640, ADDR = 12, OE = 1, WS = 0, CS = 0 | DATA = 75
+RAM ||                11680, ADDR = 13, OE = 1, WS = 0, CS = 0 | DATA = 2c
+RAM ||                11720, ADDR = 14, OE = 1, WS = 0, CS = 0 | DATA = 68
+RAM ||                11760, ADDR = 15, OE = 1, WS = 0, CS = 0 | DATA = c9
+RAM ||                11800, ADDR = 16, OE = 1, WS = 0, CS = 0 | DATA = df
+RAM ||                11840, ADDR = 17, OE = 1, WS = 0, CS = 0 | DATA = c5
+RAM ||                11880, ADDR = 18, OE = 1, WS = 0, CS = 0 | DATA = xx
+RAM ||                11920, ADDR = 19, OE = 1, WS = 0, CS = 0 | DATA = xx
+RAM ||                11960, ADDR = 1a, OE = 1, WS = 0, CS = 0 | DATA = xx
+RAM ||                12000, ADDR = 1b, OE = 1, WS = 0, CS = 0 | DATA = xx
+RAM ||                12040, ADDR = 1c, OE = 1, WS = 0, CS = 0 | DATA = 21
+RAM ||                12080, ADDR = 1d, OE = 1, WS = 0, CS = 0 | DATA = ee
+RAM ||                12120, ADDR = 1e, OE = 1, WS = 0, CS = 0 | DATA = a5
+RAM ||                12160, ADDR = 1f, OE = 1, WS = 0, CS = 0 | DATA = xx
+		Finished reading scrambled contents from RAM.
+
+
+End of ROM test.
+
+
+$finish called from file "lab7_rom_tb.v", line 97.
+$finish at simulation time               121800
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 12180000 ps
+CPU Time:      0.230 seconds;       Data structure size:   0.0Mb
+Fri Apr  9 21:05:42 2021

@@ -1,0 +1,22 @@
+Command: /home/users14/jlm7771/Documents/ece526LabSpring21/Lab6/./simv -l Lab6_tb.log
+Chronologic VCS simulator copyright 1991-2017
+Contains Synopsys proprietary information.
+Compiler version N-2017.12-SP2-2_Full64; Runtime version N-2017.12-SP2-2_Full64;  Mar 25 18:07 2021
+VCD+ Writer N-2017.12-SP2-2_Full64 Copyright (c) 1991-2017 by Synopsys Inc.
+                  20, A = 100100, B = 110011, SEL = 0, | OUT1 = 0, OUT4 = 0100, OUT5 = 00100, OUT6 = 100100
+                  40, A = 101100, B = 110111, SEL = 0, | OUT1 = 0, OUT4 = 1100, OUT5 = 01100, OUT6 = 101100
+                  60, A = 100100, B = 110011, SEL = 1, | OUT1 = 1, OUT4 = 0011, OUT5 = 10011, OUT6 = 110011
+                  80, A = 101100, B = 110111, SEL = 1, | OUT1 = 1, OUT4 = 0111, OUT5 = 10111, OUT6 = 110111
+                 100, A = 010111, B = 101001, SEL = 0, | OUT1 = 1, OUT4 = 0111, OUT5 = 10111, OUT6 = 010111
+                 120, A = 011001, B = 011001, SEL = 0, | OUT1 = 1, OUT4 = 1001, OUT5 = 11001, OUT6 = 011001
+                 140, A = 010111, B = 101001, SEL = 1, | OUT1 = 1, OUT4 = 1001, OUT5 = 01001, OUT6 = 101001
+                 160, A = 011001, B = 011001, SEL = 1, | OUT1 = 1, OUT4 = 1001, OUT5 = 11001, OUT6 = 011001
+                 180, A = 011001, B = 011001, SEL = x, | OUT1 = 1, OUT4 = 1001, OUT5 = 11001, OUT6 = 011001
+                 200, A = 011001, B = 100110, SEL = x, | OUT1 = x, OUT4 = xxxx, OUT5 = xxxxx, OUT6 = xxxxxx
+                 220, A = 011001, B = 111000, SEL = x, | OUT1 = x, OUT4 = 100x, OUT5 = 1100x, OUT6 = x1100x
+$finish called from file "Lab6_tb.v", line 79.
+$finish at simulation time                 2200
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 220000 ps
+CPU Time:      0.200 seconds;       Data structure size:   0.0Mb
+Thu Mar 25 18:07:20 2021

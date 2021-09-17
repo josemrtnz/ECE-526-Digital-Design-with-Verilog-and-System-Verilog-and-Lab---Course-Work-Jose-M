@@ -1,0 +1,52 @@
+Command: /home/users14/jlm7771/Documents/ece526LabSpring21/Lab10/./simv -l Lab10.log
+Chronologic VCS simulator copyright 1991-2017
+Contains Synopsys proprietary information.
+Compiler version N-2017.12-SP2-2_Full64; Runtime version N-2017.12-SP2-2_Full64;  May 14 14:54 2021
+VCD+ Writer N-2017.12-SP2-2_Full64 Copyright (c) 1991-2017 by Synopsys Inc.
+                  20, sys_clk = 0, send = 1, i_rst = 1, D_in = fa | o_strobe = 0, valid = 0, o_clk = 0, o_data = 0, D_out = xx
+                  40, sys_clk = 0, send = 0, i_rst = 1, D_in = fa | o_strobe = 0, valid = 0, o_clk = 1, o_data = 0, D_out = xx
+                  60, sys_clk = 0, send = 0, i_rst = 1, D_in = fa | o_strobe = 1, valid = 0, o_clk = 0, o_data = 0, D_out = xx
+                  80, sys_clk = 0, send = 0, i_rst = 1, D_in = fa | o_strobe = 1, valid = 0, o_clk = 1, o_data = 0, D_out = xx
+                 100, sys_clk = 0, send = 0, i_rst = 1, D_in = fa | o_strobe = 1, valid = 0, o_clk = 0, o_data = 0, D_out = xX
+                 120, sys_clk = 0, send = 0, i_rst = 1, D_in = fa | o_strobe = 1, valid = 0, o_clk = 1, o_data = 1, D_out = xX
+                 140, sys_clk = 0, send = 0, i_rst = 1, D_in = fa | o_strobe = 1, valid = 0, o_clk = 0, o_data = 1, D_out = xX
+                 160, sys_clk = 0, send = 0, i_rst = 1, D_in = fa | o_strobe = 1, valid = 0, o_clk = 1, o_data = 0, D_out = xX
+                 180, sys_clk = 0, send = 0, i_rst = 1, D_in = fa | o_strobe = 1, valid = 0, o_clk = 0, o_data = 0, D_out = xX
+                 200, sys_clk = 0, send = 0, i_rst = 1, D_in = fa | o_strobe = 1, valid = 0, o_clk = 1, o_data = 1, D_out = xX
+                 220, sys_clk = 0, send = 0, i_rst = 1, D_in = fa | o_strobe = 1, valid = 0, o_clk = 0, o_data = 1, D_out = xa
+                 240, sys_clk = 0, send = 0, i_rst = 1, D_in = fa | o_strobe = 1, valid = 0, o_clk = 1, o_data = 1, D_out = xa
+                 260, sys_clk = 0, send = 0, i_rst = 1, D_in = fa | o_strobe = 1, valid = 0, o_clk = 0, o_data = 1, D_out = Xa
+                 280, sys_clk = 0, send = 0, i_rst = 1, D_in = fa | o_strobe = 1, valid = 0, o_clk = 1, o_data = 1, D_out = Xa
+                 300, sys_clk = 0, send = 0, i_rst = 1, D_in = fa | o_strobe = 1, valid = 0, o_clk = 0, o_data = 1, D_out = Xa
+                 320, sys_clk = 0, send = 0, i_rst = 1, D_in = fa | o_strobe = 1, valid = 0, o_clk = 1, o_data = 1, D_out = Xa
+                 340, sys_clk = 0, send = 0, i_rst = 1, D_in = fa | o_strobe = 1, valid = 0, o_clk = 0, o_data = 1, D_out = Xa
+                 360, sys_clk = 0, send = 0, i_rst = 1, D_in = fa | o_strobe = 1, valid = 0, o_clk = 1, o_data = 1, D_out = Xa
+                 380, sys_clk = 0, send = 0, i_rst = 1, D_in = fa | o_strobe = 0, valid = 0, o_clk = 0, o_data = 0, D_out = fa
+                 400, sys_clk = 0, send = 0, i_rst = 1, D_in = fa | o_strobe = 0, valid = 1, o_clk = 1, o_data = 0, D_out = fa
+                 420, sys_clk = 0, send = 0, i_rst = 1, D_in = fa | o_strobe = 0, valid = 0, o_clk = 0, o_data = 0, D_out = fa
+                 440, sys_clk = 0, send = 0, i_rst = 1, D_in = d4 | o_strobe = 0, valid = 0, o_clk = 1, o_data = 0, D_out = fa
+                 460, sys_clk = 0, send = 1, i_rst = 1, D_in = d4 | o_strobe = 0, valid = 0, o_clk = 0, o_data = 0, D_out = fa
+                 500, sys_clk = 0, send = 0, i_rst = 1, D_in = d4 | o_strobe = 1, valid = 0, o_clk = 0, o_data = 0, D_out = fa
+                 520, sys_clk = 0, send = 0, i_rst = 1, D_in = d4 | o_strobe = 1, valid = 0, o_clk = 1, o_data = 0, D_out = fa
+                 540, sys_clk = 0, send = 0, i_rst = 1, D_in = d4 | o_strobe = 1, valid = 0, o_clk = 0, o_data = 0, D_out = fa
+                 560, sys_clk = 0, send = 0, i_rst = 1, D_in = d4 | o_strobe = 1, valid = 0, o_clk = 1, o_data = 0, D_out = fa
+                 580, sys_clk = 0, send = 0, i_rst = 1, D_in = d4 | o_strobe = 1, valid = 0, o_clk = 0, o_data = 0, D_out = f8
+                 600, sys_clk = 0, send = 0, i_rst = 1, D_in = d4 | o_strobe = 1, valid = 0, o_clk = 1, o_data = 1, D_out = f8
+                 620, sys_clk = 0, send = 0, i_rst = 1, D_in = d4 | o_strobe = 1, valid = 0, o_clk = 0, o_data = 1, D_out = fc
+                 640, sys_clk = 0, send = 0, i_rst = 1, D_in = d4 | o_strobe = 1, valid = 0, o_clk = 1, o_data = 0, D_out = fc
+                 660, sys_clk = 0, send = 0, i_rst = 1, D_in = d4 | o_strobe = 1, valid = 0, o_clk = 0, o_data = 0, D_out = f4
+                 680, sys_clk = 0, send = 0, i_rst = 1, D_in = d4 | o_strobe = 1, valid = 0, o_clk = 1, o_data = 1, D_out = f4
+                 700, sys_clk = 0, send = 0, i_rst = 1, D_in = d4 | o_strobe = 1, valid = 0, o_clk = 0, o_data = 1, D_out = f4
+                 720, sys_clk = 0, send = 0, i_rst = 1, D_in = d4 | o_strobe = 1, valid = 0, o_clk = 1, o_data = 0, D_out = f4
+                 740, sys_clk = 0, send = 0, i_rst = 1, D_in = d4 | o_strobe = 1, valid = 0, o_clk = 0, o_data = 0, D_out = d4
+                 760, sys_clk = 0, send = 0, i_rst = 1, D_in = d4 | o_strobe = 1, valid = 0, o_clk = 1, o_data = 1, D_out = d4
+                 780, sys_clk = 0, send = 0, i_rst = 1, D_in = d4 | o_strobe = 1, valid = 0, o_clk = 0, o_data = 1, D_out = d4
+                 800, sys_clk = 0, send = 0, i_rst = 1, D_in = d4 | o_strobe = 1, valid = 0, o_clk = 1, o_data = 1, D_out = d4
+                 820, sys_clk = 0, send = 0, i_rst = 1, D_in = d4 | o_strobe = 0, valid = 0, o_clk = 0, o_data = 0, D_out = d4
+                 840, sys_clk = 0, send = 0, i_rst = 1, D_in = d4 | o_strobe = 0, valid = 1, o_clk = 1, o_data = 0, D_out = d4
+$finish called from file "lab10_tb.v", line 179.
+$finish at simulation time                 8600
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 860000 ps
+CPU Time:      0.250 seconds;       Data structure size:   0.0Mb
+Fri May 14 14:54:27 2021

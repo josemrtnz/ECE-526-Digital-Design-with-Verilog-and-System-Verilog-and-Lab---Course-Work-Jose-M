@@ -1,0 +1,30 @@
+Command: /home/users14/jlm7771/Documents/ece526LabSpring21/Lab8/./simv -l Lab8_unsigned.log
+Chronologic VCS simulator copyright 1991-2017
+Contains Synopsys proprietary information.
+Compiler version N-2017.12-SP2-2_Full64; Runtime version N-2017.12-SP2-2_Full64;  Apr 18 20:43 2021
+VCD+ Writer N-2017.12-SP2-2_Full64 Copyright (c) 1991-2017 by Synopsys Inc.
+                   0, OPCODE = 2, A =   7, B =   7, EN = 1, OE = 1, CLK = 0| CF = x, ZF = x, SF = x, OF = x, ALU_OUT =   x
+                  20, OPCODE = 3, A =   7, B =   7, EN = 1, OE = 1, CLK = 0| CF = 0, ZF = 0, SF = 0, OF = 0, ALU_OUT =  14
+                  40, OPCODE = 3, A =   7, B =   8, EN = 1, OE = 1, CLK = 0| CF = 0, ZF = 1, SF = 0, OF = 0, ALU_OUT =   0
+                  60, OPCODE = 2, A =   7, B =   8, EN = 1, OE = 1, CLK = 0| CF = 1, ZF = 0, SF = 1, OF = 0, ALU_OUT = 255
+                  80, OPCODE = 3, A = 138, B = 137, EN = 1, OE = 1, CLK = 0| CF = 0, ZF = 0, SF = 0, OF = 0, ALU_OUT =  15
+                 100, OPCODE = 2, A = 202, B = 201, EN = 1, OE = 1, CLK = 0| CF = 0, ZF = 0, SF = 0, OF = 0, ALU_OUT =   1
+                 120, OPCODE = 2, A = 129, B = 201, EN = 1, OE = 1, CLK = 0| CF = 1, ZF = 0, SF = 1, OF = 0, ALU_OUT = 147
+                 140, OPCODE = 3, A = 129, B =  55, EN = 1, OE = 1, CLK = 0| CF = 1, ZF = 0, SF = 0, OF = 1, ALU_OUT =  74
+                 160, OPCODE = 3, A = 129, B =  55, EN = 1, OE = 1, CLK = 0| CF = 0, ZF = 0, SF = 0, OF = 1, ALU_OUT =  74
+                 180, OPCODE = 3, A = 129, B =  55, EN = 1, OE = 0, CLK = 0| CF = 0, ZF = x, SF = 0, OF = 1, ALU_OUT =   z
+                 200, OPCODE = 3, A = 129, B =  55, EN = 0, OE = 0, CLK = 0| CF = 0, ZF = x, SF = 0, OF = 1, ALU_OUT =   z
+                 220, OPCODE = 3, A = 129, B =  55, EN = 0, OE = 0, CLK = 0| CF = 0, ZF = x, SF = 0, OF = 1, ALU_OUT =   z
+                 240, OPCODE = 2, A = 129, B =  55, EN = 1, OE = 1, CLK = 0| CF = 0, ZF = 0, SF = 0, OF = 1, ALU_OUT =  74
+                 260, OPCODE = 2, A = 193, B = 119, EN = 1, OE = 1, CLK = 0| CF = 0, ZF = 0, SF = 1, OF = 0, ALU_OUT = 184
+                 280, OPCODE = 4, A = 105, B =  87, EN = 1, OE = 1, CLK = 0| CF = 1, ZF = 0, SF = 0, OF = 0, ALU_OUT =  56
+                 300, OPCODE = 5, A = 01101001, B = 01010111, EN = 1, OE = 1, CLK = 0| CF = 0, ZF = 0, SF = 0, OF = 0, ALU_OUT = 01000001
+                 320, OPCODE = 6, A = 01101001, B = 01010111, EN = 1, OE = 1, CLK = 0| CF = 0, ZF = 0, SF = 0, OF = 0, ALU_OUT = 01111111
+                 340, OPCODE = 7, A = 01101001, B = 01010111, EN = 1, OE = 1, CLK = 0| CF = 0, ZF = 0, SF = 0, OF = 0, ALU_OUT = 00111110
+                 360, OPCODE = 7, A = 01101001, B = 01010111, EN = 1, OE = 1, CLK = 0| CF = 0, ZF = 0, SF = 1, OF = 0, ALU_OUT = 10010110
+$finish called from file "lab8_tb.v", line 112.
+$finish at simulation time                 3800
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 380000 ps
+CPU Time:      0.220 seconds;       Data structure size:   0.0Mb
+Sun Apr 18 20:43:57 2021

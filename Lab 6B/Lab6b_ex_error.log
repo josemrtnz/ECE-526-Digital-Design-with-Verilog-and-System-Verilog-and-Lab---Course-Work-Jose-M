@@ -1,0 +1,42 @@
+Command: /home/users14/jlm7771/Documents/ece526LabSpring21/Lab6B/./simv -l Lab6b_ex_error.log
+Chronologic VCS simulator copyright 1991-2017
+Contains Synopsys proprietary information.
+Compiler version N-2017.12-SP2-2_Full64; Runtime version N-2017.12-SP2-2_Full64;  Apr  3 19:39 2021
+VCD+ Writer N-2017.12-SP2-2_Full64 Copyright (c) 1991-2017 by Synopsys Inc.
+                   0, D_IN =  0, C0 =  2, C1 =  3, C2 =  4, C3 =  9, RST = 1, CLK = 0| OUT =    x Expected OUT =    x
+                  10, D_IN =  1, C0 =  2, C1 =  3, C2 =  4, C3 =  9, RST = 1, CLK = 1| OUT =    x Expected OUT =    x
+                  20, D_IN =  1, C0 =  2, C1 =  3, C2 =  4, C3 =  9, RST = 1, CLK = 0| OUT =    x Expected OUT =    x
+                  30, D_IN =  2, C0 =  2, C1 =  3, C2 =  4, C3 =  9, RST = 1, CLK = 1| OUT =    x Expected OUT =    x
+                  40, D_IN =  2, C0 =  2, C1 =  3, C2 =  4, C3 =  9, RST = 1, CLK = 0| OUT =    x Expected OUT =    x
+                  50, D_IN =  3, C0 =  2, C1 =  3, C2 =  4, C3 =  9, RST = 1, CLK = 1| OUT =    x Expected OUT =    x
+                  60, D_IN =  3, C0 =  2, C1 =  3, C2 =  4, C3 =  9, RST = 1, CLK = 0| OUT =    x Expected OUT =    x
+                  70, D_IN =  4, C0 =  2, C1 =  3, C2 =  4, C3 =  9, RST = 1, CLK = 1| OUT =   16 Expected OUT =   16
+                  80, D_IN =  4, C0 =  2, C1 =  3, C2 =  4, C3 =  9, RST = 1, CLK = 0| OUT =   16 Expected OUT =   16
+                  90, D_IN =  5, C0 =  2, C1 =  3, C2 =  4, C3 =  9, RST = 1, CLK = 1| OUT =   34 Expected OUT =   34
+                 100, D_IN =  5, C0 =  2, C1 =  3, C2 =  4, C3 =  9, RST = 1, CLK = 0| OUT =   34 Expected OUT =   34
+                 110, D_IN =  6, C0 =  2, C1 =  3, C2 =  4, C3 =  9, RST = 1, CLK = 1| OUT =   52 Expected OUT =   52
+			First set of test vectors.
+
+
+                 180, D_IN =  9, C0 =  2, C1 =  3, C2 =  4, C3 =  9, RST = 1, CLK = 0| OUT =  106 Expected OUT =  106
+                 190, D_IN = 10, C0 =  2, C1 =  3, C2 =  4, C3 =  9, RST = 1, CLK = 1| OUT =  124 Expected OUT =  124
+                 200, D_IN = 10, C0 =  2, C1 =  3, C2 =  4, C3 =  9, RST = 1, CLK = 0| OUT =  124 Expected OUT =  124
+                 210, D_IN = 11, C0 =  2, C1 =  3, C2 =  4, C3 =  9, RST = 1, CLK = 1| OUT =  142 Expected OUT =  142
+                 220, D_IN = 11, C0 =  2, C1 =  3, C2 =  4, C3 =  9, RST = 1, CLK = 0| OUT =  142 Expected OUT =  142
+                 230, D_IN = 12, C0 =  2, C1 =  3, C2 =  4, C3 =  9, RST = 1, CLK = 1| OUT =  160 Expected OUT =  160
+                 240, D_IN = 12, C0 =  2, C1 =  3, C2 =  4, C3 =  9, RST = 1, CLK = 0| OUT =  160 Expected OUT =  160
+                 250, D_IN = 13, C0 =  2, C1 =  3, C2 =  4, C3 =  9, RST = 1, CLK = 1| OUT =  178 Expected OUT =  178
+                 260, D_IN = 13, C0 =  2, C1 =  3, C2 =  4, C3 =  9, RST = 1, CLK = 0| OUT =  178 Expected OUT =  178
+                 270, D_IN = 14, C0 =  2, C1 =  3, C2 =  4, C3 =  9, RST = 1, CLK = 1| OUT =  196 Expected OUT =  196
+                 280, D_IN = 14, C0 =  2, C1 =  3, C2 =  4, C3 =  9, RST = 1, CLK = 0| OUT =  196 Expected OUT =  196
+                 290, D_IN = 15, C0 =  2, C1 =  3, C2 =  4, C3 =  9, RST = 1, CLK = 1| OUT =  214 Expected OUT =  214
+                 300, D_IN = 15, C0 =  2, C1 =  3, C2 =  4, C3 =  9, RST = 1, CLK = 0| OUT =    X Expected OUT =  214
+                 310, D_IN =  0, C0 =  2, C1 =  3, C2 =  4, C3 =  9, RST = 1, CLK = 1| OUT =    X Expected OUT =  232
+			Error! Outputs do not match!
+
+$finish called from file "lab_6b_ex_tb.v", line 75.
+$finish at simulation time                 3110
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 311000 ps
+CPU Time:      0.200 seconds;       Data structure size:   0.0Mb
+Sat Apr  3 19:39:13 2021

@@ -1,0 +1,28 @@
+Command: /home/users14/jlm7771/Documents/ece526LabSpring21/Lab3/./simv -l Lab3.log
+Chronologic VCS simulator copyright 1991-2017
+Contains Synopsys proprietary information.
+Compiler version N-2017.12-SP2-2_Full64; Runtime version N-2017.12-SP2-2_Full64;  Feb 19 14:52 2021
+VCD+ Writer N-2017.12-SP2-2_Full64 Copyright (c) 1991-2017 by Synopsys Inc.
+                   0: clock = 0, data = 0, clear = 1, | Q = x, Q_BAR = x
+                  50: clock = 1, data = 0, clear = 1, | Q = x, Q_BAR = x
+                  71: clock = 1, data = 0, clear = 1, | Q = x, Q_BAR = 1
+                  78: clock = 1, data = 0, clear = 1, | Q = 0, Q_BAR = 1
+                 100: clock = 0, data = 0, clear = 1, | Q = 0, Q_BAR = 1
+                 150: clock = 1, data = 0, clear = 1, | Q = 0, Q_BAR = 1
+                 250: clock = 0, data = 1, clear = 1, | Q = 0, Q_BAR = 1
+                 300: clock = 1, data = 1, clear = 1, | Q = 1, Q_BAR = 0
+                 350: clock = 1, data = 1, clear = 1, | Q = 1, Q_BAR = 0
+                 400: clock = 0, data = 0, clear = 0, | Q = 1, Q_BAR = 0
+                 450: clock = 1, data = 0, clear = 0, | Q = 0, Q_BAR = 1
+                 500: clock = 0, data = 0, clear = 0, | Q = 0, Q_BAR = 1
+                 550: clock = 1, data = 0, clear = 0, | Q = 0, Q_BAR = 1
+                 600: clock = 0, data = 1, clear = 0, | Q = 0, Q_BAR = 1
+                 650: clock = 1, data = 1, clear = 0, | Q = 0, Q_BAR = 1
+                 700: clock = 0, data = 1, clear = 0, | Q = 0, Q_BAR = 1
+                 750: clock = 1, data = 1, clear = 0, | Q = 0, Q_BAR = 1
+$finish called from file "Lab3_tb.v", line 86.
+$finish at simulation time                 8000
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 800000 ps
+CPU Time:      0.220 seconds;       Data structure size:   0.0Mb
+Fri Feb 19 14:52:39 2021

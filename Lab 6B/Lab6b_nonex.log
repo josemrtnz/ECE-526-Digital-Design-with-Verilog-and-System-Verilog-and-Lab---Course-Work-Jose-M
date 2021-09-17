@@ -1,0 +1,22 @@
+Command: /home/users14/jlm7771/Documents/ece526LabSpring21/Lab6B/./simv -l Lab6b_nonex.log
+Chronologic VCS simulator copyright 1991-2017
+Contains Synopsys proprietary information.
+Compiler version N-2017.12-SP2-2_Full64; Runtime version N-2017.12-SP2-2_Full64;  Apr  3 19:20 2021
+VCD+ Writer N-2017.12-SP2-2_Full64 Copyright (c) 1991-2017 by Synopsys Inc.
+                   0, D_IN = x, C0 = x, C1 = x, C2 = x, C3 = x, RST = x, CLK = x| OUT =    x
+                  20, D_IN = 4, C0 = 2, C1 = 3, C2 = 4, C3 = 9, RST = 1, CLK = 1| OUT =    x
+                  40, D_IN = 0, C0 = 2, C1 = 3, C2 = 4, C3 = 9, RST = 1, CLK = 1| OUT =    x
+                  60, D_IN = 1, C0 = 2, C1 = 3, C2 = 4, C3 = 9, RST = 1, CLK = 1| OUT =    x
+                  80, D_IN = a, C0 = 2, C1 = 3, C2 = 4, C3 = 9, RST = 1, CLK = 1| OUT =   59
+                 100, D_IN = b, C0 = 2, C1 = 3, C2 = 4, C3 = 9, RST = 1, CLK = 1| OUT =   56
+                 120, D_IN = 2, C0 = 2, C1 = 3, C2 = 4, C3 = 9, RST = 1, CLK = 1| OUT =   86
+                 140, D_IN = f, C0 = 2, C1 = 3, C2 = 4, C3 = 9, RST = 1, CLK = 1| OUT =  170
+                 160, D_IN = 8, C0 = 2, C1 = 3, C2 = 4, C3 = 9, RST = 1, CLK = 1| OUT =  168
+                 180, D_IN = 0, C0 = 2, C1 = 3, C2 = 4, C3 = 9, RST = 1, CLK = 1| OUT =  102
+                 200, D_IN = d, C0 = 2, C1 = 3, C2 = 4, C3 = 9, RST = 1, CLK = 1| OUT =  193
+$finish called from file "lab_6b_nonex_tb.v", line 85.
+$finish at simulation time                 2000
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 200000 ps
+CPU Time:      0.210 seconds;       Data structure size:   0.0Mb
+Sat Apr  3 19:20:05 2021

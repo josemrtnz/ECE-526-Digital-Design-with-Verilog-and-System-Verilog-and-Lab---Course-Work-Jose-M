@@ -1,0 +1,21 @@
+Command: /home/users14/jlm7771/Documents/ece526LabSpring21/Lab2/./simv -l Lab2_delay.log
+Chronologic VCS simulator copyright 1991-2020
+Contains Synopsys proprietary information.
+Compiler version Q-2020.03-SP1_Full64; Runtime version Q-2020.03-SP1_Full64;  Feb  4 20:35 2021
+VCD+ Writer Q-2020.03-SP1_Full64 Copyright (c) 1991-2020 by Synopsys Inc.
+                   0: in1 = x, in2 = x, | out = x | NT = x, A1 = x, A2 = x
+                  15: in1 = 0, in2 = 0, | out = x | NT = x, A1 = x, A2 = x
+                  17: in1 = 0, in2 = 0, | out = x | NT = 1, A1 = x, A2 = x
+                  18: in1 = 0, in2 = 0, | out = x | NT = 1, A1 = 0, A2 = 0
+                  26: in1 = 0, in2 = 0, | out = 1 | NT = 1, A1 = 0, A2 = 0
+                  30: in1 = 0, in2 = 1, | out = 1 | NT = 1, A1 = 0, A2 = 0
+                  45: in1 = 1, in2 = 0, | out = 1 | NT = 1, A1 = 0, A2 = 0
+                  47: in1 = 1, in2 = 0, | out = 1 | NT = 0, A1 = 0, A2 = 0
+                  60: in1 = 1, in2 = 1, | out = 1 | NT = 0, A1 = 0, A2 = 0
+                  63: in1 = 1, in2 = 1, | out = 1 | NT = 0, A1 = 1, A2 = 0
+$finish called from file "Lab2_tb.v", line 35.
+$finish at simulation time                  750
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 75000 ps
+CPU Time:      0.250 seconds;       Data structure size:   0.0Mb
+Thu Feb  4 20:35:25 2021
